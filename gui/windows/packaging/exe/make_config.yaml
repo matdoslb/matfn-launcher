@@ -1,0 +1,9 @@
+script_template: "custom-inno-setup-script.iss"
+app_id: 31868matdoslb.RebootLauncher
+publisher_name: matdoslb
+publisher_url: https://github.com/matdosllb
+display_name: matFN Launcher
+install_dir_name: matFN Launcher
+create_desktop_icon: true
+locales:
+  - en
