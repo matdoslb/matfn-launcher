@@ -1,4 +1,4 @@
-A lightweight Client-only GUI Launcher for [Project Reboot](https://github.com/Milxnor/Project-Reboot-3.0/). Will be used for matFN. All credits to Auties00
+A lightweight Client-only GUI Launcher based on [Project Reboot](https://github.com/Milxnor/Project-Reboot-3.0/). Will be used for matFN. All credits to Auties00
 
 Install the launcher easily from the [releases](https://github.com/matdoslb/matfn-Launcher/releases/) section
 
